@@ -26,8 +26,8 @@ if ($_SERVER["REQUEST_METHOD"] == "GET" && isset($_GET["query"])) {
 
     $search_query = $_GET["query"];
     $servername = "localhost"; 
-$username = "root"; 
-$password = ""; 
+$username = "admin"; 
+$password = "bityear2@2024"; 
 $dbname = "bityeartwo2024";
 
   
